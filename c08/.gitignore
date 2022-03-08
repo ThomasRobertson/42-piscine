@@ -1,0 +1,4 @@
+*.out
+*.swp
+*tmp.*
+ft_stock_str.h

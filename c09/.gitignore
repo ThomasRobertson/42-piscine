@@ -1,0 +1,7 @@
+*.out
+*.swp
+*tmp.*
+ex00/libft.a
+ex01/srcs/
+ex01/includes/
+ex00/*.o
